@@ -936,7 +936,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 
 
 
-@media (max-height: 1000px) {
+@media (max-height: 740px) {
     .events__content {
         grid-template-columns: 1fr;
         grid-template-rows: 300px 440px;
